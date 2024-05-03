@@ -10,5 +10,5 @@
 <p align=center>
   <a href="https://mintylabs.booth.pm/" target="_blank">Booth</a> - 
   <a href="https://mintylabs.gumroad.com/" target="_blank">Gumroad</a> - 
-  <a href="https://jinxxy.com/MintLily" target="_blank">Jinxxy</a>
+  <a href="https://jinxxy.com/MintLily?ref=Minty%20Labs%20GitHub%20Page" target="_blank">Jinxxy</a>
 </p>
